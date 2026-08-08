@@ -14,6 +14,7 @@ I build tools that help people learn better and systems that scale.
 > My GitHub is less a curated museum and more a very enthusiastic lab notebook that occasionally ships something cool.
 
 *P.S. If you’re wondering about the golden egg profile picture — it was inspired by [this](https://www.youtube.com/watch?v=lpvzs4xc7zA).*
+
 ---
 
 ### 🚀 The Ones I’m Actually Proud Of  
