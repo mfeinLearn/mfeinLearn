@@ -18,25 +18,24 @@ I build tools that help people learn better and systems that scale.
 ---
 
 ### 🚀 The Ones I’m Actually Proud Of  
-*(These are the “please look here first” repos — also the ones on my LinkedIn and/or pinned on GitHub.)*
+*(Start here — mix of solo builds and team work, also on LinkedIn and/or pinned.)*
 
-| Project | When | Why it matters | Links / notes |
-|---------|------|----------------|---------------|
-| **[BFB](https://github.com/mfeinLearn/bfb)** — One-Signature DeFi Exit | Jun 2026 | ETHGlobal NYC 2026. One-signature “panic button” that exits an entire DeFi portfolio (Aave loans, Uniswap V3 LPs, rewards, tokens) into USDC in a single atomic tx — zero upfront capital. LI.FI Composer + Aave v3 flashloans + EIP-7702. | LinkedIn · GitHub |
-| **[organ-iq](https://github.com/fs-apprenticeship/organ-iq)** | May 2026 – Jun 2026 | Multiplayer web adaptation of *React!* (organic chemistry card game). Real-time multiplayer, chemically accurate reactions, AI tutor for mechanisms. Next.js + TypeScript + Tailwind + Prisma + PostgreSQL + Clerk + streaming OpenAI. | LinkedIn |
-| **[personal-leetcode-coach](https://github.com/mfeinLearn/personal-leetcode-coach)** | ~Apr–May 2026 | AI coach that watches GitHub pushes, finds mistake patterns, and emails weekly “stop doing that” summaries | Proud of this |
-| **[project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator)** | 2026 | AI agent that generates + validates educational exercises for Project Gem | Proud of this direction |
-| **[skills](https://github.com/mfeinLearn/skills)** | 2026 | Composable agent skills for real engineering (alignment, TDD, architecture, debugging) | Current direction |
-| **[RL_Learning_Journey](https://github.com/mfeinLearn/RL_Learning_Journey)** | 2026 | Structured Reinforcement Learning path & experiments | Current direction |
-| **Let's AI Dialog** | 2025 (ETHGlobal NYC) | AI agents dialog via MeTTa (SingularityNET knowledge graph) + Fetch.ai Agentverse for persistent agents. Pokémon-inspired. | [ETHGlobal showcase](https://ethglobal.com/showcase/lets-ai-dialog-9ptuy) |
-| **[Play Economy](https://github.com/mfdotnetmicroservices)** — mfdotnetmicroservices | ~2025 | Game backend economy: Inventory, Catalog, and Trading microservices (.NET). Players buy, manage, and P2P trade items. | LinkedIn · **Pinned** [](https://github.com/mfdotnetmicroservices/play.catalog) |
-| **[binary-battleship](https://github.com/mfeinLearn/binary-battleship)** | — | Battleship built to practice bit manipulation | LinkedIn |
-| **[tim-app](https://github.com/mfeinLearn/tim-app)** — Trusted Ideal Mate | — | Extra safety layer for dating apps: share date details with a trusted person | LinkedIn |
-| **[sage](https://github.com/mfeinLearn/sage)** | post–XPRIZE | Managed desktop client of the OmniSight / Project Gem game (originally Android for XPRIZE) | LinkedIn |
-| **[Project-Gem](https://github.com/mfeinLearn/Project-Gem)** / OmniSight | May 2015 – Apr 2017 | Global Learning XPRIZE finalist. Open-source educational game so kids can teach themselves reading, writing & arithmetic. | LinkedIn · **Pinned** · [XPRIZE team repo](https://github.com/XPRIZE/GLEXP-Team-OmniSight) |
-| **[snet-web-simulation](https://github.com/mfeinLearn/snet-web-simulation)** | earlier | Web simulation of the SingularityNET network | LinkedIn · **Pinned** |
-| **[the_crypto_update](https://github.com/mfeinLearn/the_crypto_update)** | earlier | CLI for top 100 cryptocurrencies by market cap | LinkedIn · **Pinned** |
-| **wishingwell** | Impact Summit Hackathon | Blockchain charitable donations on Ethereum with donation visualization | [calchulus/wishingwell](https://github.com/calchulus/wishingwell) |
+| Project | When | Role | Why it matters |
+|---------|------|------|----------------|
+| **[BFB](https://github.com/mfeinLearn/bfb)** — One-Signature DeFi Exit | Jun 2026 | **Team** (ETHGlobal NYC) | One-signature “panic button” that exits an entire DeFi portfolio (Aave, Uniswap V3 LPs, rewards, tokens) into USDC in one atomic tx. LI.FI Composer + Aave v3 flashloans + EIP-7702. |
+| **[organ-iq](https://github.com/fs-apprenticeship/organ-iq)** | May–Jun 2026 | **Team** (apprenticeship) | Multiplayer web adaptation of *React!* (organic chemistry card game). Real-time multiplayer, chemically accurate reactions, AI tutor. Next.js + TypeScript + Tailwind + Prisma + PostgreSQL + Clerk + streaming OpenAI. |
+| **[personal-leetcode-coach](https://github.com/mfeinLearn/personal-leetcode-coach)** | ~Apr–May 2026 | **Solo** | AI coach that watches GitHub pushes, finds mistake patterns, and emails weekly improvement summaries. |
+| **[project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator)** | 2026 | **Solo** | AI agent that generates + validates educational exercises for Project Gem. |
+| **[RL_Learning_Journey](https://github.com/mfeinLearn/RL_Learning_Journey)** | 2026 | **Solo** | Structured Reinforcement Learning path & experiments. |
+| **Let's AI Dialog** | 2025 (ETHGlobal NYC) | **Team** (hackathon) | AI agents dialog via MeTTa (SingularityNET) + Fetch.ai Agentverse. [Showcase](https://ethglobal.com/showcase/lets-ai-dialog-9ptuy) |
+| **[Play Economy](https://github.com/mfdotnetmicroservices)** | ~2025 | **Team / org** | Game backend economy: Inventory, Catalog, Trading microservices (.NET). **Pinned:** [play.catalog](https://github.com/mfdotnetmicroservices/play.catalog) |
+| **[binary-battleship](https://github.com/mfeinLearn/binary-battleship)** | — | **Solo** | Battleship built to practice bit manipulation. |
+| **[tim-app](https://github.com/mfeinLearn/tim-app)** — Trusted Ideal Mate | — | **Solo** | Extra safety layer for dating apps: share date details with a trusted person. |
+| **[sage](https://github.com/mfeinLearn/sage)** | post–XPRIZE | **Solo** | Managed desktop client of the OmniSight / Project Gem game. |
+| **[Project-Gem](https://github.com/mfeinLearn/Project-Gem)** / OmniSight | 2015–2017 | **Team** (XPRIZE; PM / programmer) | Global Learning XPRIZE finalist educational game. [XPRIZE team repo](https://github.com/XPRIZE/GLEXP-Team-OmniSight) · **Pinned** |
+| **[snet-web-simulation](https://github.com/mfeinLearn/snet-web-simulation)** | earlier | **Solo** | Web simulation of the SingularityNET network. **Pinned** |
+| **[the_crypto_update](https://github.com/mfeinLearn/the_crypto_update)** | earlier | **Solo** | CLI for top 100 cryptocurrencies by market cap. **Pinned** |
+| **[wishingwell](https://github.com/calchulus/wishingwell)** | Impact Summit | **Team** (hackathon) | Blockchain charitable donations on Ethereum. |
 
 **GitHub pinned right now:** `snet-web-simulation` · `the_crypto_update` · `Project-Gem` · [`mfdotnetmicroservices/play.catalog`](https://github.com/mfdotnetmicroservices/play.catalog)
 
@@ -47,7 +46,7 @@ I build tools that help people learn better and systems that scale.
 | Era | Focus | Vibe |
 |-----|--------|------|
 | **Early** | Hardware hacking intro, crypto CLI, SingularityNET simulation, Ruby APIs | “I should learn *everything*” |
-| **Education / Games** | Project Gem (XPRIZE finalist) + content generation | Proud project territory |
+| **Education / Games** | Project Gem (XPRIZE finalist) + later content generation | Proud project territory |
 | **Full-stack / Product** | .NET microservices (Play Economy), Discord/game backends, Next.js | Real systems work |
 | **Flatiron AI/DS** | Labs, discussions, SQL/data engineering, generative AI for DS | Mostly coursework (on purpose) |
 | **Interview & DSA** | LeetCode collections, system design, algorithms | Deliberate practice |
@@ -56,69 +55,41 @@ I build tools that help people learn better and systems that scale.
 
 ---
 
-## 🧭 Full Repository Index
+## 🧭 How this profile is organized
 
-### 🧠 AI / ML / RL
+1. **Built end-to-end** — repos I created and drove myself  
+2. **Worked on with others** — team / org / hackathon projects  
+3. **Forked for learning** — upstream repos I cloned for study and **did not meaningfully change**
+
+---
+
+## 1. Built end-to-end *(my original work)*
+
+These are repos I created. Some are serious builds; some are experiments or coursework solutions.
+
+### AI / ML / RL
 | Repo | Notes |
 |------|-------|
-| [personal-leetcode-coach](https://github.com/mfeinLearn/personal-leetcode-coach) | **Proud of this** — AI LeetCode coach |
-| [project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator) | **Proud of this** — educational content agent |
-| [RL_Learning_Journey](https://github.com/mfeinLearn/RL_Learning_Journey) | Active RL study path |
+| [personal-leetcode-coach](https://github.com/mfeinLearn/personal-leetcode-coach) | AI LeetCode coach |
+| [project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator) | Educational content AI agent |
+| [RL_Learning_Journey](https://github.com/mfeinLearn/RL_Learning_Journey) | RL study path & experiments |
 | [Machine-Learning-Model-for-Loan-Approval](https://github.com/mfeinLearn/Machine-Learning-Model-for-Loan-Approval) | Loan approval models |
 | [Forest-Fires-Prevention](https://github.com/mfeinLearn/Forest-Fires-Prevention) | Wildfire risk models |
-| [claude-certified-architect-foundations-llm-wiki](https://github.com/mfeinLearn/claude-certified-architect-foundations-llm-wiki) | CCA-F study wiki |
-| [Claude-Architect-Examples](https://github.com/mfeinLearn/Claude-Architect-Examples) | Architect cert examples |
-| [AI-For-Beginners](https://github.com/mfeinLearn/AI-For-Beginners) | Microsoft curriculum (fork) |
-| [Machine-Learning-Collection](https://github.com/mfeinLearn/Machine-Learning-Collection) | ML/DL resource (fork) |
-| [annotated_deep_learning_paper_implementations](https://github.com/mfeinLearn/annotated_deep_learning_paper_implementations) | Paper implementations (fork) |
-| [micrograd](https://github.com/mfeinLearn/micrograd) | Karpathy tiny autograd (fork) |
-| [become-elite-ai-researcher](https://github.com/mfeinLearn/become-elite-ai-researcher) | AI researcher path (fork) |
+| [leetcode-repo](https://github.com/mfeinLearn/leetcode-repo) | My LeetCode solutions |
 
-### 🎮 Games & Education
+### Apps, games & tools
 | Repo | Notes |
 |------|-------|
-| [Project-Gem](https://github.com/mfeinLearn/Project-Gem) | **Proud of this** — XPRIZE finalist educational game (2015–2017) |
-| [project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator) | **Proud of this** — AI exercise generator |
-| [sage](https://github.com/mfeinLearn/sage) | Desktop client of OmniSight / Project Gem |
-| [binary-battleship](https://github.com/mfeinLearn/binary-battleship) | Battleship for bit manipulation practice |
-| [organ-iq](https://github.com/fs-apprenticeship/organ-iq) | Multiplayer organic chemistry reaction game + AI tutor (May–Jun 2026) |
-
-### 💻 Full-Stack / Web / Microservices
-| Repo | Notes |
-|------|-------|
-| [mfdotnetmicroservices](https://github.com/mfdotnetmicroservices) | Play Economy microservices (C# / .NET) — real product work · [play.catalog](https://github.com/mfdotnetmicroservices/play.catalog) |
-| [bfb](https://github.com/mfeinLearn/bfb) | **Proud of this** — one-signature DeFi exit (ETHGlobal NYC 2026) |
-| [testing-supabase](https://github.com/mfeinLearn/testing-supabase) | Experiments |
-| [nextjs-template](https://github.com/mfeinLearn/nextjs-template) | Next.js starter |
-| [next-js-mini-project](https://github.com/mfeinLearn/next-js-mini-project) | Next.js practice |
-| [nextjs-ecommerce](https://github.com/mfeinLearn/nextjs-ecommerce) | Fork / learning |
-| [ultimate-react-course](https://github.com/mfeinLearn/ultimate-react-course) | Fork / learning |
-| [OrganiqAPI](https://github.com/mfeinLearn/OrganiqAPI) | Ruby API (fork) |
-| [nit-agent](https://github.com/mfeinLearn/nit-agent) | Fork |
-| [pacing-scheduler](https://github.com/mfeinLearn/pacing-scheduler) | Fork / experiment |
+| [binary-battleship](https://github.com/mfeinLearn/binary-battleship) | Battleship for bit-manipulation practice |
 | [tim-app](https://github.com/mfeinLearn/tim-app) | Trusted Ideal Mate — dating safety app |
+| [sage](https://github.com/mfeinLearn/sage) | Desktop client of OmniSight / Project Gem |
+| [snet-web-simulation](https://github.com/mfeinLearn/snet-web-simulation) | SingularityNET network simulation |
+| [the_crypto_update](https://github.com/mfeinLearn/the_crypto_update) | Top-100 crypto CLI |
+| [testing-supabase](https://github.com/mfeinLearn/testing-supabase) | Supabase experiments |
+| [next-js-mini-project](https://github.com/mfeinLearn/next-js-mini-project) | Next.js practice app |
 
-### 📚 LeetCode / DSA / Interview Prep
-| Repo | Notes |
-|------|-------|
-| [personal-leetcode-coach](https://github.com/mfeinLearn/personal-leetcode-coach) | **Proud of this** |
-| [leetcode-repo](https://github.com/mfeinLearn/leetcode-repo) | Solution collection |
-| [system-design](https://github.com/mfeinLearn/system-design) | Interview prep (fork) |
-| [dsa](https://github.com/mfeinLearn/dsa) / [dsa-0](https://github.com/mfeinLearn/dsa-0) | Practice |
-| [practical_algorithms](https://github.com/mfeinLearn/practical_algorithms) | Algorithms practice (fork) |
-| [interview](https://github.com/mfeinLearn/interview) | Interview questions (fork) |
-| [python-multithreading-examples](https://github.com/mfeinLearn/python-multithreading-examples) | Threading examples (fork) |
-
-### 🛠 Agent Tooling & Skills
-| Repo | Notes |
-|------|-------|
-| [skills](https://github.com/mfeinLearn/skills) | **Proud of this direction** — real-engineer agent skills |
-| [andrej-karpathy-skills](https://github.com/mfeinLearn/andrej-karpathy-skills) | Karpathy-inspired Claude improvements |
-| [gstack](https://github.com/mfeinLearn/gstack) | Garry Tan Claude setup (fork) |
-| [vibe-fighter](https://github.com/mfeinLearn/vibe-fighter) | Related tooling (fork) |
-
-### 📊 Flatiron School — AI / Data Science Coursework
-Most of these are **labs, discussions, and technical lessons** from the apprenticeship. Useful for seeing the path; not meant to be “portfolio showpieces.”
+### Flatiron coursework *(my solutions to assigned labs)*
+Useful for seeing the learning path — not meant as portfolio showpieces.
 
 **Python fundamentals & discussions**  
 [FI-Python-Programming](https://github.com/mfeinLearn/FI-Python-Programming) · [FI-Python-Algorithms](https://github.com/mfeinLearn/FI-Python-Algorithms) · [FI-Python-Flowchart](https://github.com/mfeinLearn/FI-Python-Flowchart) · [FI-Discussion-Operators](https://github.com/mfeinLearn/FI-Discussion-Operators) · [FI-Discussion-While-Loops](https://github.com/mfeinLearn/FI-Discussion-While-Loops) · [FI-Discussion-For-Loops](https://github.com/mfeinLearn/FI-Discussion-For-Loops) · [FI-Technical-Lesson-Tuples-and-Lists](https://github.com/mfeinLearn/FI-Technical-Lesson-Tuples-and-Lists) · [FI-Discussion-Tuples-and-Lists](https://github.com/mfeinLearn/FI-Discussion-Tuples-and-Lists) · [FI-Practice-Dictionaries](https://github.com/mfeinLearn/FI-Practice-Dictionaries)
@@ -126,27 +97,72 @@ Most of these are **labs, discussions, and technical lessons** from the apprenti
 **Data / SQL / generative AI labs**  
 [FI-Lab-The-Data-Engineering-Lifecycle-In-Python](https://github.com/mfeinLearn/FI-Lab-The-Data-Engineering-Lifecycle-In-Python) · [FI-Lab-Generative-AI-for-Data-Science](https://github.com/mfeinLearn/FI-Lab-Generative-AI-for-Data-Science) · [Big-Data-Practice](https://github.com/mfeinLearn/Big-Data-Practice) · [dsc-sql-summative-lab](https://github.com/mfeinLearn/dsc-sql-summative-lab) + related `dsc-*` / `DS_Course*` modules
 
-### 🕰 Earlier Work
-| Repo | Notes |
-|------|-------|
-| [snet-web-simulation](https://github.com/mfeinLearn/snet-web-simulation) | SingularityNET network simulation (Ruby) — **Pinned** |
-| [the_crypto_update](https://github.com/mfeinLearn/the_crypto_update) | Top-100 crypto CLI (Ruby) — **Pinned** |
-| [introduction-to-hardware-hacking-01](https://github.com/mfeinLearn/introduction-to-hardware-hacking-01) | Early hardware curiosity |
-| [pythonBlitzInTen](https://github.com/mfeinLearn/pythonBlitzInTen) | Learning materials (fork) |
-| [stats_and_probability](https://github.com/mfeinLearn/stats_and_probability) | Stats tutorials (fork) |
-| [serverless-for-beginners](https://github.com/mfeinLearn/serverless-for-beginners) | Serverless intro (fork) |
-| [awesome](https://github.com/mfeinLearn/awesome) | Awesome lists (fork) |
-
-Some of these are abandoned. Some were “I needed to understand X.” That’s fine — they still show the trail.
-
-### 📦 Other Learning Forks
-Kept around as reference while studying (DSA, React, algorithms, interview banks, etc.). Not the main event.
+### Systems notes *(original writeups)*
+OSTEP homework solutions and notes live in **Gists** (see below).
 
 ---
 
-## 📝 Gists — Systems / OSTEP Notes
+## 2. Worked on with others *(team / org / hackathon)*
 
-These are detailed personal notes and homework solutions from **Operating Systems: Three Easy Pieces**. Mostly coursework-style deep work, not polished products — but they show how I actually learn systems.
+| Project | Context |
+|---------|---------|
+| [BFB](https://github.com/mfeinLearn/bfb) | ETHGlobal NYC 2026 — team hackathon (collaborators include dalehcc) |
+| [organ-iq](https://github.com/fs-apprenticeship/organ-iq) | Flatiron apprenticeship team repo under `fs-apprenticeship` |
+| [Play Economy / mfdotnetmicroservices](https://github.com/mfdotnetmicroservices) | Shared org: Catalog, Inventory, Trading, Identity, etc. · [play.catalog](https://github.com/mfdotnetmicroservices/play.catalog) |
+| [Project-Gem](https://github.com/mfeinLearn/Project-Gem) | XPRIZE team (Omnipotence LLC); I was Project Manager / Programmer · [XPRIZE team repo](https://github.com/XPRIZE/GLEXP-Team-OmniSight) |
+| **Let's AI Dialog** | ETHGlobal NYC 2025 — [showcase](https://ethglobal.com/showcase/lets-ai-dialog-9ptuy) |
+| [wishingwell](https://github.com/calchulus/wishingwell) | Impact Summit Hackathon team project |
+
+---
+
+## 3. Forked for learning *(unchanged reference copies)*
+
+These are **other people’s repos I forked to study**. Commit history is still upstream — I did not push meaningful changes of my own.
+
+### AI / ML / agent tooling
+| Repo | Upstream |
+|------|----------|
+| [skills](https://github.com/mfeinLearn/skills) | mattpocock/skills |
+| [andrej-karpathy-skills](https://github.com/mfeinLearn/andrej-karpathy-skills) | multica-ai/andrej-karpathy-skills |
+| [gstack](https://github.com/mfeinLearn/gstack) | garrytan/gstack |
+| [vibe-fighter](https://github.com/mfeinLearn/vibe-fighter) | chongdashu/vibe-fighter |
+| [claude-certified-architect-foundations-llm-wiki](https://github.com/mfeinLearn/claude-certified-architect-foundations-llm-wiki) | hong-chu/... |
+| [Claude-Architect-Examples](https://github.com/mfeinLearn/Claude-Architect-Examples) | ExamProCo/... |
+| [AI-For-Beginners](https://github.com/mfeinLearn/AI-For-Beginners) | microsoft/AI-For-Beginners |
+| [Machine-Learning-Collection](https://github.com/mfeinLearn/Machine-Learning-Collection) | aladdinpersson/... |
+| [annotated_deep_learning_paper_implementations](https://github.com/mfeinLearn/annotated_deep_learning_paper_implementations) | labmlai/... |
+| [micrograd](https://github.com/mfeinLearn/micrograd) | karpathy/micrograd |
+| [become-elite-ai-researcher](https://github.com/mfeinLearn/become-elite-ai-researcher) | vukrosic/... |
+
+### DSA / interview / web learning
+| Repo | Upstream |
+|------|----------|
+| [system-design](https://github.com/mfeinLearn/system-design) | karanpratapsingh/system-design |
+| [dsa](https://github.com/mfeinLearn/dsa) / [dsa-0](https://github.com/mfeinLearn/dsa-0) | DSA curricula |
+| [practical_algorithms](https://github.com/mfeinLearn/practical_algorithms) | robertbunch/... |
+| [interview](https://github.com/mfeinLearn/interview) | mission-peace/interview |
+| [python-multithreading-examples](https://github.com/mfeinLearn/python-multithreading-examples) | arifulhaqueuc/... |
+| [nextjs-template](https://github.com/mfeinLearn/nextjs-template) | fs-apprenticeship/nextjs-template |
+| [nextjs-ecommerce](https://github.com/mfeinLearn/nextjs-ecommerce) | codinginflow/... |
+| [ultimate-react-course](https://github.com/mfeinLearn/ultimate-react-course) | jonasschmedtmann/... |
+| [OrganiqAPI](https://github.com/mfeinLearn/OrganiqAPI) | ShujaatAzim/OrganiqAPI |
+| [nit-agent](https://github.com/mfeinLearn/nit-agent) | ChauAry21/nit |
+| [pacing-scheduler](https://github.com/mfeinLearn/pacing-scheduler) | Stochastics/... |
+
+### Older learning forks
+| Repo | Notes |
+|------|-------|
+| [pythonBlitzInTen](https://github.com/mfeinLearn/pythonBlitzInTen) | Python materials (fork) |
+| [stats_and_probability](https://github.com/mfeinLearn/stats_and_probability) | Stats tutorials (fork) |
+| [serverless-for-beginners](https://github.com/mfeinLearn/serverless-for-beginners) | Serverless intro (fork) |
+| [awesome](https://github.com/mfeinLearn/awesome) | Awesome lists (fork) |
+| Many older `phase-0` / `phase-1` / `phase-3` lab forks | Curriculum templates forked for study |
+
+---
+
+## 📝 Gists — Systems / OSTEP Notes *(my writeups)*
+
+Detailed personal notes and homework solutions from **Operating Systems: Three Easy Pieces**. Original study work — not polished products, but they show how I learn systems.
 
 | Topic | What it covers |
 |-------|----------------|
@@ -187,3 +203,8 @@ These are detailed personal notes and homework solutions from **Operating System
 - **LinkedIn:** [malcome-fein](https://www.linkedin.com/in/malcome-fein/)
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfeinLearn&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfeinLearn&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
