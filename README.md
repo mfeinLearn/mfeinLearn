@@ -187,8 +187,3 @@ These are detailed personal notes and homework solutions from **Operating System
 - **LinkedIn:** [malcome-fein](https://www.linkedin.com/in/malcome-fein/)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfeinLearn&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfeinLearn&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
