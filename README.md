@@ -13,7 +13,7 @@ I build tools that help people learn better and systems that scale.
 > One day it’s educational games for kids, the next it’s page tables and TLB measurements, then microservices, then an AI that nags me about my LeetCode mistakes.  
 > My GitHub is less a curated museum and more a very enthusiastic lab notebook that occasionally ships something cool.
 
-*P.S. If you’re wondering about the golden egg profile picture — it was inspired by [this](https://www.youtube.com/watch?v=lpvzs4xc7zA).*
+*P.S. If you’re wondering about the golden egg profile picture, it was inspired by [this](https://www.youtube.com/watch?v=lpvzs4xc7zA).*
 
 ---
 
