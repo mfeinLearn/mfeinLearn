@@ -4,7 +4,7 @@
 
 I build tools that help people learn better and systems that scale.
 
-**Currently focused on:** RL agents, production AI tooling, Claude Certified Architect, systems/OS (OSTEP), and roles at xAI / Tesla (Optimus) / Anthropic / SpaceX.
+**Currently focused on:** AI & ML and Data Science, RL agents, production AI tooling, Claude Certified Architect, systems/OS (OSTEP).
 
 > **Quick honesty check before you dive in:**  
 > A large chunk of this profile is **coursework** (especially Flatiron AI/DS labs and OSTEP systems notes). Some things are **abandoned experiments** that taught me something and then got left on the digital shelf. And a smaller set are projects I’m **genuinely proud of** — the ones I’d actually want someone to open first.  
