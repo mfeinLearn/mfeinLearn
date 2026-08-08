@@ -18,23 +18,23 @@ I build tools that help people learn better and systems that scale.
 ### 🚀 The Ones I’m Actually Proud Of  
 *(These are the “please look here first” repos — also the ones on my LinkedIn and/or pinned on GitHub.)*
 
-| Project | Why it matters | Links / notes |
-|---------|----------------|---------------|
-| **[BFB](https://github.com/mfeinLearn/bfb)** — One-Signature DeFi Exit | ETHGlobal NYC 2026. One-signature “panic button” that exits an entire DeFi portfolio (Aave loans, Uniswap V3 LPs, rewards, tokens) into USDC in a single atomic tx — zero upfront capital. LI.FI Composer + Aave v3 flashloans + EIP-7702. | LinkedIn · GitHub |
-| **[Project-Gem](https://github.com/mfeinLearn/Project-Gem)** / OmniSight | Global Learning XPRIZE finalist. Open-source educational game so kids can teach themselves reading, writing & arithmetic. | LinkedIn · **Pinned** · [XPRIZE team repo](https://github.com/XPRIZE/GLEXP-Team-OmniSight) |
-| **[project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator)** | AI agent that generates + validates educational exercises for Project Gem | Proud of this direction |
-| **[personal-leetcode-coach](https://github.com/mfeinLearn/personal-leetcode-coach)** | AI coach that watches GitHub pushes, finds mistake patterns, and emails weekly “stop doing that” summaries | Proud of this |
-| **[mfdotnetmicroservices](https://github.com/mfeinLearn/mfdotnetmicroservices)** — Play Economy | Game backend economy: Inventory, Catalog, and Trading microservices (.NET). Players buy, manage, and P2P trade items. | LinkedIn · **Pinned** (play.catalog) |
-| **organ-iq** | Multiplayer web adaptation of *React!* (organic chemistry card game). Real-time multiplayer, chemically accurate reactions, AI tutor for mechanisms. Next.js + TypeScript + Tailwind + Prisma + PostgreSQL + Clerk + streaming OpenAI. | LinkedIn |
-| **[binary-battleship](https://github.com/mfeinLearn/binary-battleship)** | Battleship built to practice bit manipulation | LinkedIn |
-| **[sage](https://github.com/mfeinLearn/sage)** | Managed desktop client of the OmniSight / Project Gem game (originally Android for XPRIZE) | LinkedIn |
-| **[snet-web-simulation](https://github.com/mfeinLearn/snet-web-simulation)** | Web simulation of the SingularityNET network | LinkedIn · **Pinned** |
-| **[the_crypto_update](https://github.com/mfeinLearn/the_crypto_update)** | CLI for top 100 cryptocurrencies by market cap | LinkedIn · **Pinned** |
-| **[tim-app](https://github.com/mfeinLearn/tim-app)** — Trusted Ideal Mate | Extra safety layer for dating apps: share date details with a trusted person | LinkedIn |
-| **Let's AI Dialog** | ETHGlobal NYC 2025. AI agents dialog via MeTTa (SingularityNET knowledge graph) + Fetch.ai Agentverse for persistent agents. Pokémon-inspired. | [ETHGlobal showcase](https://ethglobal.com/showcase/lets-ai-dialog-9ptuy) |
-| **[skills](https://github.com/mfeinLearn/skills)** | Composable agent skills for real engineering (alignment, TDD, architecture, debugging) | Current direction |
-| **[RL_Learning_Journey](https://github.com/mfeinLearn/RL_Learning_Journey)** | Structured Reinforcement Learning path & experiments | Current direction |
-| **wishingwell** | Impact Summit Hackathon — blockchain charitable donations on Ethereum with donation visualization | [calchulus/wishingwell](https://github.com/calchulus/wishingwell) |
+| Project | When | Why it matters | Links / notes |
+|---------|------|----------------|---------------|
+| **[BFB](https://github.com/mfeinLearn/bfb)** — One-Signature DeFi Exit | Jun 2026 | ETHGlobal NYC 2026. One-signature “panic button” that exits an entire DeFi portfolio (Aave loans, Uniswap V3 LPs, rewards, tokens) into USDC in a single atomic tx — zero upfront capital. LI.FI Composer + Aave v3 flashloans + EIP-7702. | LinkedIn · GitHub |
+| **[organ-iq](https://github.com/fs-apprenticeship/organ-iq)** | May 2026 – Jun 2026 | Multiplayer web adaptation of *React!* (organic chemistry card game). Real-time multiplayer, chemically accurate reactions, AI tutor for mechanisms. Next.js + TypeScript + Tailwind + Prisma + PostgreSQL + Clerk + streaming OpenAI. | LinkedIn |
+| **[personal-leetcode-coach](https://github.com/mfeinLearn/personal-leetcode-coach)** | ~Apr–May 2026 | AI coach that watches GitHub pushes, finds mistake patterns, and emails weekly “stop doing that” summaries | Proud of this |
+| **[project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator)** | 2026 | AI agent that generates + validates educational exercises for Project Gem | Proud of this direction |
+| **[skills](https://github.com/mfeinLearn/skills)** | 2026 | Composable agent skills for real engineering (alignment, TDD, architecture, debugging) | Current direction |
+| **[RL_Learning_Journey](https://github.com/mfeinLearn/RL_Learning_Journey)** | 2026 | Structured Reinforcement Learning path & experiments | Current direction |
+| **Let's AI Dialog** | 2025 (ETHGlobal NYC) | AI agents dialog via MeTTa (SingularityNET knowledge graph) + Fetch.ai Agentverse for persistent agents. Pokémon-inspired. | [ETHGlobal showcase](https://ethglobal.com/showcase/lets-ai-dialog-9ptuy) |
+| **[mfdotnetmicroservices](https://github.com/mfeinLearn/mfdotnetmicroservices)** — Play Economy | ~2025 | Game backend economy: Inventory, Catalog, and Trading microservices (.NET). Players buy, manage, and P2P trade items. | LinkedIn · **Pinned** (play.catalog) |
+| **[binary-battleship](https://github.com/mfeinLearn/binary-battleship)** | — | Battleship built to practice bit manipulation | LinkedIn |
+| **[tim-app](https://github.com/mfeinLearn/tim-app)** — Trusted Ideal Mate | — | Extra safety layer for dating apps: share date details with a trusted person | LinkedIn |
+| **[sage](https://github.com/mfeinLearn/sage)** | post–XPRIZE | Managed desktop client of the OmniSight / Project Gem game (originally Android for XPRIZE) | LinkedIn |
+| **[Project-Gem](https://github.com/mfeinLearn/Project-Gem)** / OmniSight | May 2015 – Apr 2017 | Global Learning XPRIZE finalist. Open-source educational game so kids can teach themselves reading, writing & arithmetic. | LinkedIn · **Pinned** · [XPRIZE team repo](https://github.com/XPRIZE/GLEXP-Team-OmniSight) |
+| **[snet-web-simulation](https://github.com/mfeinLearn/snet-web-simulation)** | earlier | Web simulation of the SingularityNET network | LinkedIn · **Pinned** |
+| **[the_crypto_update](https://github.com/mfeinLearn/the_crypto_update)** | earlier | CLI for top 100 cryptocurrencies by market cap | LinkedIn · **Pinned** |
+| **wishingwell** | Impact Summit Hackathon | Blockchain charitable donations on Ethereum with donation visualization | [calchulus/wishingwell](https://github.com/calchulus/wishingwell) |
 
 **GitHub pinned right now:** `snet-web-simulation` · `the_crypto_update` · `Project-Gem` · `mfdotnetmicroservices/play.catalog`
 
@@ -75,11 +75,11 @@ I build tools that help people learn better and systems that scale.
 ### 🎮 Games & Education
 | Repo | Notes |
 |------|-------|
-| [Project-Gem](https://github.com/mfeinLearn/Project-Gem) | **Proud of this** — XPRIZE finalist educational game |
+| [Project-Gem](https://github.com/mfeinLearn/Project-Gem) | **Proud of this** — XPRIZE finalist educational game (2015–2017) |
 | [project-gem-content-generator](https://github.com/mfeinLearn/project-gem-content-generator) | **Proud of this** — AI exercise generator |
 | [sage](https://github.com/mfeinLearn/sage) | Desktop client of OmniSight / Project Gem |
 | [binary-battleship](https://github.com/mfeinLearn/binary-battleship) | Battleship for bit manipulation practice |
-| organ-iq | Multiplayer organic chemistry reaction game + AI tutor (LinkedIn) |
+| [organ-iq](https://github.com/fs-apprenticeship/organ-iq) | Multiplayer organic chemistry reaction game + AI tutor (May–Jun 2026) |
 
 ### 💻 Full-Stack / Web / Microservices
 | Repo | Notes |
