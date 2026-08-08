@@ -29,7 +29,7 @@ I build tools that help people learn better and systems that scale.
 | **[skills](https://github.com/mfeinLearn/skills)** | 2026 | Composable agent skills for real engineering (alignment, TDD, architecture, debugging) | Current direction |
 | **[RL_Learning_Journey](https://github.com/mfeinLearn/RL_Learning_Journey)** | 2026 | Structured Reinforcement Learning path & experiments | Current direction |
 | **Let's AI Dialog** | 2025 (ETHGlobal NYC) | AI agents dialog via MeTTa (SingularityNET knowledge graph) + Fetch.ai Agentverse for persistent agents. Pokémon-inspired. | [ETHGlobal showcase](https://ethglobal.com/showcase/lets-ai-dialog-9ptuy) |
-| **[mfdotnetmicroservices](https://github.com/mfeinLearn/mfdotnetmicroservices)** — Play Economy | ~2025 | Game backend economy: Inventory, Catalog, and Trading microservices (.NET). Players buy, manage, and P2P trade items. | LinkedIn · **Pinned** (play.catalog) |
+| **[Play Economy](https://github.com/mfdotnetmicroservices)** — mfdotnetmicroservices | ~2025 | Game backend economy: Inventory, Catalog, and Trading microservices (.NET). Players buy, manage, and P2P trade items. | LinkedIn · **Pinned** [](https://github.com/mfdotnetmicroservices/play.catalog) |
 | **[binary-battleship](https://github.com/mfeinLearn/binary-battleship)** | — | Battleship built to practice bit manipulation | LinkedIn |
 | **[tim-app](https://github.com/mfeinLearn/tim-app)** — Trusted Ideal Mate | — | Extra safety layer for dating apps: share date details with a trusted person | LinkedIn |
 | **[sage](https://github.com/mfeinLearn/sage)** | post–XPRIZE | Managed desktop client of the OmniSight / Project Gem game (originally Android for XPRIZE) | LinkedIn |
@@ -38,7 +38,7 @@ I build tools that help people learn better and systems that scale.
 | **[the_crypto_update](https://github.com/mfeinLearn/the_crypto_update)** | earlier | CLI for top 100 cryptocurrencies by market cap | LinkedIn · **Pinned** |
 | **wishingwell** | Impact Summit Hackathon | Blockchain charitable donations on Ethereum with donation visualization | [calchulus/wishingwell](https://github.com/calchulus/wishingwell) |
 
-**GitHub pinned right now:** `snet-web-simulation` · `the_crypto_update` · `Project-Gem` · `mfdotnetmicroservices/play.catalog`
+**GitHub pinned right now:** `snet-web-simulation` · `the_crypto_update` · `Project-Gem` · [`mfdotnetmicroservices/play.catalog`](https://github.com/mfdotnetmicroservices/play.catalog)
 
 ---
 
@@ -86,7 +86,7 @@ I build tools that help people learn better and systems that scale.
 ### 💻 Full-Stack / Web / Microservices
 | Repo | Notes |
 |------|-------|
-| [mfdotnetmicroservices](https://github.com/mfeinLearn/mfdotnetmicroservices) | Play Economy microservices (C# / .NET) — real product work |
+| [mfdotnetmicroservices](https://github.com/mfdotnetmicroservices) | Play Economy microservices (C# / .NET) — real product work · [play.catalog](https://github.com/mfdotnetmicroservices/play.catalog) |
 | [bfb](https://github.com/mfeinLearn/bfb) | **Proud of this** — one-signature DeFi exit (ETHGlobal NYC 2026) |
 | [testing-supabase](https://github.com/mfeinLearn/testing-supabase) | Experiments |
 | [nextjs-template](https://github.com/mfeinLearn/nextjs-template) | Next.js starter |
